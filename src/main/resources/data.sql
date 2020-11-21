@@ -1,0 +1,2 @@
+INSERT INTO Employee   values (10001,'Lokesh', 'Engineer','Development','Chennai',3456,'Java',30000.00);
+INSERT INTO Employee   values (10002,'Teja', 'Engineer','Development','Chennai',3456,'JS',20000.00);
